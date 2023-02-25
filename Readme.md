@@ -1,4 +1,4 @@
-<h1 align="center"><b>❤️ ASAD ALEXA MENTION ALL BOT ❤️</b></h1>
+<h1 align="center"><b>❤️ Lucifer MENTION ALL BOT ❤️</b></h1>
 
 <h4 align="center">Asad Alexa A Powerful, Smart And Simple And Smart Mention Bot <br> ... Written With Python and Telethon...</h4>
 
