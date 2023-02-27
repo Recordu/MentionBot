@@ -1,8 +1,8 @@
 <h1 align="center"><b>❤️ Lucifer MENTION ALL BOT ❤️</b></h1>
 
-<h4 align="center">Asad Alexa A Powerful, Smart And Simple And Smart Mention Bot <br> ... Written With Python and Telethon...</h4>
+<h4 align="center">LUCIFER A Powerful, Smart And Simple And Smart Mention Bot <br> ... Written With Python and Telethon...</h4>
 
-<p align="center"><a href="https://t.me/Dr_Asad_Ali"><img src="https://telegra.ph/file/5ece62fb5d7f096c05099.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/LUCIFER_IS_BOT"><img src="https://telegra.ph/file/a315bbacca966986a1854.jpg" width="400"></a></p>
 
 <p align="center">
     <a href="https://app.codacy.com/manual/TheTeamAlexa/MentionBot/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
