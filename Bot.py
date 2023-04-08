@@ -34,7 +34,7 @@ async def start(event):
     if not event.is_private:
         return await event.respond("𝙃𝙖𝙣 𝘽𝙝𝙖𝙞 𝙕𝙞𝙣𝙙𝙖 𝙝𝙪 𝙢𝙖𝙞 𝙖𝙗𝙝𝙞 🥺")
     await event.reply(
-        "━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ɪ ᴀᴍ Lucifer ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✪ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ    : [LUCIFER_IS_BOT](https://t.me/LUCIFER_IS_BOT)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [Lucifer ʜᴇʟᴘ](https://t.me/Lucifer_chatting)┓\n┣★ 𝙇𝙐𝘾𝙄𝙁𝙀𝙍 › : [Lucifer ʀᴇᴘᴏ](Jhaat barabar dimag hai chale ho bot ke malik banane by lucifer)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/LUCIFER_IS_BOT) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
+        "━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ɪ ᴀᴍ Lucifer ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✪ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ    : [The_Lucifer_Was_Bot](https://t.me/The_Lucifer_Was_Bot)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [Lucifer ʜᴇʟᴘ](https://t.me/wilderharley_650)┓\n┣★ 𝙇𝙐𝘾𝙄𝙁𝙀𝙍 › : [Lucifer ʀᴇᴘᴏ](Jhaat barabar dimag hai chale ho bot ke malik banane by lucifer)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/LUCIFER_IS_BOT) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
         link_preview=False,
         buttons=(
             [
@@ -44,12 +44,12 @@ async def start(event):
                 ),
             ],
             [
-                Button.url("☀︎︎ ɢʀᴏᴜᴘ ☀︎︎︎", "https://t.me/Lucifer_chatting"),
-                Button.url("☀︎︎ ᴄʜᴀɴɴᴇʟ ☀︎︎", "https://t.me/lucifer_check_and_verify"),
+                Button.url("☀︎︎ ɢʀᴏᴜᴘ ☀︎︎︎", "https://t.me/wilderharley_650"),
+                Button.url("☀︎︎ ᴄʜᴀɴɴᴇʟ ☀︎︎", "https://t.me/about_lucifer1"),
             ],
             [
                 Button.url("☀︎︎ ʙʀᴏ ☀︎︎️️", "https://t.me/Sensei_Zoro"),
-                Button.url("☀︎︎ ᴋɪɴɢ ☀︎︎︎", "https://t.me/LUCIFER_IS_BOT"),
+                Button.url("☀︎︎ ᴋɪɴɢ ☀︎︎︎", "https://t.me/The_Lucifer_Was_Bot"),
             ],
         ),
     )
@@ -66,8 +66,8 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("☀︎︎ ʜᴇᴀʀᴛ", "https://t.me/Lucifer_chatting"),
-                Button.url("Group ☀︎︎", "https://t.me/lucifer_bot_testing"),
+                Button.url("☀︎︎ ʜᴇᴀʀᴛ", "https://t.me/about_lucifer1"),
+                Button.url("Group ☀︎︎", "https://t.me/wilderharley_650"),
             ]
         ),
     )
@@ -78,13 +78,13 @@ async def help(event):
     chat_id = event.chat_id
     if not event.is_private:
         return await event.respond("CHAL BHAI DM CHALTE HAI COMMAND DEKHNE KE LIYA🥺")
-    helptext = "✪ ᴏᴡɴᴇʀ ᴍᴇɴᴜ ᴏғ Lucifer ᴍᴇɴᴛɪᴏɴ\n\n✪ ᴍʏ ᴏᴡɴᴇʀ ɪs [LUCIFER_IS_BOT](https://t.me/LUCIFER_IS_BOT)\n✪ ᴏғғɪᴄɪᴀʟ ᴍᴇᴍʙᴇʀ ᴏғ LUCIFER\n✪ ʏᴏᴜᴛᴜʙᴇ [ᴄʜᴀɴɴᴇʟ](https://www.youtube.com/c/Silentfelling1)\n✪ ғᴜᴛᴜʀᴇ ᴀɴᴇsᴛʜᴇᴛɪᴄ."
+    helptext = "✪ ᴏᴡɴᴇʀ ᴍᴇɴᴜ ᴏғ Lucifer ᴍᴇɴᴛɪᴏɴ\n\n✪ ᴍʏ ᴏᴡɴᴇʀ ɪs [The_Lucifer_Was_Bot](https://t.me/The_Lucifer_Was_Bot)\n✪ ᴏғғɪᴄɪᴀʟ ᴍᴇᴍʙᴇʀ ᴏғ LUCIFER\n✪ ʏᴏᴜᴛᴜʙᴇ [ᴄʜᴀɴɴᴇʟ](https://www.youtube.com/c/Silentfelling1)\n✪ ғᴜᴛᴜʀᴇ ᴀɴᴇsᴛʜᴇᴛɪᴄ."
     await event.reply(
         helptext,
         link_preview=False,
         buttons=(
             [
-                Button.url("☀︎︎ ʜᴇᴀʀᴛ", "https://t.me/lucifer_bot_testing"),
+                Button.url("☀︎︎ ʜᴇᴀʀᴛ", "https://t.me/wilderharley_650"),
                 Button.url("ʏᴏᴜᴛᴜʙᴇ ☀︎︎", "https://www.youtube.com/c/Silentfelling1"),
             ]
         ),
